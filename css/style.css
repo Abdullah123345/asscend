@@ -24,3 +24,26 @@
     flex-direction: column;
     gap: 12px;
 }
+.nav-text-habits {
+    font-size:18px;
+    font-weight: 600;
+    color:#F2F2F2;
+    text-decoration:none;
+
+}
+.nav-quests-icon {
+    width: 30px;
+    height: 30px;
+}
+.nav-text-quests {
+    font-size:18px;
+    font-weight: 600;
+    color:#F2F2F2;
+    text-decoration:none;
+}
+.nav-stats-icon {
+    font-size:18px;
+    font-weight: 600;
+    color:#F2F2F2;
+    text-decoration:none;
+}
