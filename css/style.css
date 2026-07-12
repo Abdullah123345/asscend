@@ -1,5 +1,12 @@
 .logo {
-    width: 50px;
+    width: 100px;
     height: auto;
+    
+}
+.sideheader {
+    font-size: 24px;
+    color: #e7e7e7;
+    text-align: center;
+    margin-top: 20px;
     
 }
