@@ -41,7 +41,13 @@
     color:#F2F2F2;
     text-decoration:none;
 }
-.nav-stats-icon {
+.nav-text-stats {
+    font-size:18px;
+    font-weight: 600;
+    color:#F2F2F2;
+    text-decoration:none;
+}
+.nav-text-achievement {
     font-size:18px;
     font-weight: 600;
     color:#F2F2F2;
