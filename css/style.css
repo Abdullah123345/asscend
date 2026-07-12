@@ -6,11 +6,18 @@
 .nav-text{
     font-size:18px;
     font-weight: 600;
-    color:EAEAEA;
+    color:#F2F2F2;
+    text-decoration:none;
+}
+.nav-text-goals {
+    font-size:18px;
+    font-weight: 600;
+    color:#F2F2F2;
     text-decoration:none;
 }
 .nav-container {
     background-color: #111218;
     border: 1px solid #2A2D3A;
     border-radius: 20px;
+    width: fit-content;
 }
