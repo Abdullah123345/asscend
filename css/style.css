@@ -88,3 +88,15 @@
     background-color: #171921;
     border: 1px solid #2A2D36;
 }
+.top-nav {
+    position: fixed;
+    top: 0;
+    left: 250px; /* adjust to your sidebar width */
+    right: 0;
+    height: 80px;
+}
+.top-nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
