@@ -3,7 +3,7 @@
     height: auto
     
 }
-.nav-text{
+.nav-dashboard-text{
     font-size:18px;
     font-weight: 600;
     color:#F2F2F2;
@@ -58,4 +58,33 @@
     font-weight: 600;
     color:#F2F2F2;
     text-decoration:none;
+}
+.greetings h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #F2F2F2;
+    margin: 0;
+}
+.greetings p {
+    font-size: 14px;
+    color: #9A9DA8;
+    margin-top: 5px;
+}
+.top-nav {
+    background-color: #111218;
+    border: 1px solid #252833;
+    border-radius: 16px;
+    padding: 20px 30px;
+    margin: 20px;
+}
+.top-nav-actions {
+    display: flex;
+    gap: 12px;
+}
+.nav-button {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+    background-color: #171921;
+    border: 1px solid #2A2D36;
 }
