@@ -100,3 +100,8 @@
     justify-content: space-between;
     align-items: center;
 }
+body {
+    background-color: #111218;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
