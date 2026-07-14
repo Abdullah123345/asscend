@@ -108,5 +108,22 @@ body {
 .character-card-container{
     position: absolute;
     top: 100px;
-    left: 15px;
+    left: 300px;
+    
+}
+.character-name {
+    font-size: 22px;
+    font-weight: 700;
+    color: #F2F2F2;
+    margin: 0;
+    left:150px;
+}
+.character-level,
+.character-health,
+.character-experience {
+    font-size: 15px;
+    font-weight: 500;
+    color: #A8A8B3;
+    margin: 6px 0;
+    left:150px;
 }
