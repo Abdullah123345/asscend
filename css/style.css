@@ -70,12 +70,18 @@
     color: #9A9DA8;
     margin-top: 5px;
 }
+
 .top-nav {
+    .top-nav {
+    position: fixed;
+    top: 20px;
+    left: 250px;
+    right: 20px;
     background-color: #111218;
     border: 1px solid #252833;
     border-radius: 16px;
-    padding: 20px 30px;
-    margin: 20px;
+    padding: 15px 30px;
+}
 }
 .top-nav-actions {
     display: flex;
@@ -109,7 +115,7 @@ body {
     position: absolute;
     top: 100px;
     left: 300px;
-    transform:translateY(200);
+    margin-top: 50px;
     
 }
 .character-name {
