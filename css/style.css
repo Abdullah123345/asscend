@@ -137,3 +137,45 @@ body {
     margin: 6px 0;
     
 }
+.stats-container {
+    display:flex;
+    gap:20px;
+}
+.stats-item {
+    background-color: #171921;
+    border: 1px solid #2A2D36;
+    border-radius: 18px;
+    width: 180px;
+    height: 140px;
+    padding: 20px;
+}
+.stats-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.stat-icon,
+.stat-trophy,
+.stat-streak,
+.stat-quests {
+    width: 28px;
+    height: 28px;
+}
+.xp-stat,
+.trophy-stat,
+.streak-stat,
+.quests-stat {
+    font-size: 14px;
+    font-weight: 600;
+    color: #9A9DA8;
+    margin: 0;
+}
+.xp-value,
+.level-value,
+.streak-value,
+.quests-value {
+    font-size: 32px;
+    font-weight: 700;
+    color: #F2F2F2;
+    margin: 20px 0 0 0;
+}
