@@ -140,7 +140,6 @@ body {
 .stats-container {
     display:flex;
     gap:20px;
-    top:100px;
 }
 .stats-item {
     background-color: #171921;
@@ -179,4 +178,9 @@ body {
     font-weight: 700;
     color: #F2F2F2;
     margin: 20px 0 0 0;
+}
+.character-stats-container {
+    display: flex;
+    align-items: center;
+    gap: 30px;
 }
