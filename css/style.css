@@ -288,11 +288,22 @@ body {
     left: 50px;
 }
 .challenges-container p {
-    color: #111218;
+    color: #F2F2F2;
 }
 .challenges-header  {
     color: #F2F2F2;
 }
 .challenge {
     color: #F2F2F2;
+}
+.goals-xp{
+    margin-top: 20px;
+    color: #ffd166;
+    font-weight: 700;
+}
+.reward-challenge{
+    margin-top: 20px;
+    color: #ffd166;
+    font-weight: 700;
+
 }
