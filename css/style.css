@@ -296,10 +296,11 @@ body {
 .challenge {
     color: #F2F2F2;
 }
-.goals-xp{
+.goals-xp p{
     margin-top: 20px;
     color: #ffd166;
     font-weight: 700;
+    visibility: visible;
 }
 .reward-challenge{
     margin-top: 20px;
@@ -307,3 +308,4 @@ body {
     font-weight: 700;
 
 }
+
