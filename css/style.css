@@ -308,4 +308,83 @@ body {
     font-weight: 700;
 
 }
+.proggress-containeer-last {
+    background-color: #111218;
+    border: 1px solid #2A2D3A;
+    border-radius: 20px;
+    padding: 20px;
+    width: 500px;
+    margin: 20px auto;
+}
+.proggress-header h2 {
+    color: #F2F2F2;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+
+/* Daily XP */
+.xp-proggress,
+.goals-weekly-container,
+.monthly-goals {
+    margin-bottom: 20px;
+}
+
+.daily-xp,
+.weekly-xp,
+.monthly-xp {
+    color: #F2F2F2;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+
+/* Progress bar backgrounds */
+.progress-bar-container1,
+.progress-bar-container2,
+.progress-bar-container3 {
+    width: 100%;
+    height: 12px;
+    background-color: #2A2D3A;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+
+/* Filled bars */
+.progress-bar1,
+.progress-bar2,
+.progress-bar3 {
+    height: 100%;
+    background-color: #7C5CFF;
+    border-radius: 10px;
+}
+
+
+/* Different progress amounts */
+.progress-bar1 {
+    width: 80%;
+}
+
+.progress-bar2 {
+    width: 65%;
+}
+
+.progress-bar3 {
+    width: 40%;
+}
+
+
+/* Percent numbers */
+.num,
+.num2,
+.num3 {
+    color: #AFAFAF;
+    font-size: 14px;
+    margin-top: 5px;
+}
+.goals-xp {
+    color: #FFD700;
+    font-size: 14px;
+}
 
